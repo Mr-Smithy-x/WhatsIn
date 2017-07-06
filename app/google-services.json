@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "332891319885",
+    "firebase_url": "https://whatsin-8d738.firebaseio.com",
+    "project_id": "whatsin-8d738",
+    "storage_bucket": "whatsin-8d738.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:332891319885:android:d6e879f90b4d812a",
+        "android_client_info": {
+          "package_name": "com.charlton.whatsin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "332891319885-h82l4s0q1tl0a346olptnaip3nof5eer.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.charlton.whatsin",
+            "certificate_hash": "0C7566B769F55FD5BCBD3E237FB519DA125FB4F4"
+          }
+        },
+        {
+          "client_id": "332891319885-khm4ue4p1vhsm3slruqtaaioi0gohl7v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsUXTJjmDFFgT8itBd_6VChVdiA_xj5UM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "332891319885-khm4ue4p1vhsm3slruqtaaioi0gohl7v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
